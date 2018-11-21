@@ -1,0 +1,172 @@
+body {background-color: rgb(45, 60, 80);
+  font-family: 'Open Sans', sans-serif;
+  width: 960px;
+  margin: 0 auto;
+  height: 200%
+}
+
+h1 {
+  display: inline-block;
+  background-color: rgb(230, 75, 60);
+  text-align: center;
+  color: white;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 1px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: rgb(200, 200, 200);
+}
+
+a:hover {
+  color: rgb(225, 225, 225);
+}
+center {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(200, 200, 200);
+  font-weight: normal;
+  font-size: 20px;
+}
+
+nav {
+  display: block;
+  margin-right: auto;
+  width: 100%;
+  background-color: rgb(230, 75, 60);
+}
+
+text {
+  float: right;
+}
+
+img {
+  height: auto;
+}
+
+p {
+  color: white;
+
+}
+
+.projectContainerOne {
+  display: block;
+  width: 100%;
+  height: 33%;
+}
+
+.l {
+  float: left;
+  width: 45%;
+}
+
+.r {
+  width: 45%;
+  float: right;
+}
+
+.clearfix: {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.projectContainerTwo {
+  display: block;
+  width: 100%;
+  height: 33%;
+}
+
+.projectContainerThree {
+  display: block;
+  width: 100%;
+  height: 33%;
+}
+
+.call {
+  width: 100%;
+  height: 160px;
+}
+
+.fb {
+  width: 100%;
+  height: 160px;
+}
+
+.twitter {
+  width: 100%;
+  height: 160px;
+}
+
+.icons {
+  height: 100%;
+  width: 15%;
+}
+
+.phoneNumber {
+  padding: 69px 0px;
+  margin: 0px;
+}
+
+.userImage {
+  height: 200px;
+  width: 200px;
+  align: left;
+  margin: 10px 0px;
+}
+
+.address {
+  color: white;
+}
+
+.addressList{
+  list-style-type: none;
+  color: white;
+}
+
+.workExperiance {
+  padding: 1px;
+  color: white;
+  font-weight: normal;
+}
+
+.upperSection {
+  margin: 10px 0px;
+  height: 210px;
+  width: 100%;
+}
+
+.upperSectionRight {
+  float: right;
+}
+
+.lowerSection {
+  margin: 10px;
+}
+
+.navBar  {
+  display: inline-block;
+  background-color: rgb(230, 75, 60);
+  list-style-type: none;
+  width: 15%;
+  text-align: center;
+  font-weight: normal;
+  border-right: 1px;
+  border-left: 0px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-style: solid;
+}
